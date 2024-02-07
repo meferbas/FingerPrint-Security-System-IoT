@@ -37,5 +37,5 @@ The circuit diagram of the project is below 👇
 
 # Authors and Thanks
 -  [@Muhammet-842](https://www.github.com/Muhammet-842)
--  Thank you so much Yiğit Ceylan who helped us develop this project! ❤️
+-  Many thanks to Yiğit Ceylan who helped us develop this project! ❤️
 
