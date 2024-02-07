@@ -1,4 +1,4 @@
-# Description Of The Project
+ # Description Of The Project
 - This project creates a secure system against bad people, takes photos of people in case of unauthorized entry and sends notifications to the owner via e-mail.
 - This project is only a prototype and is open to development.
 
@@ -28,12 +28,14 @@ The circuit diagram of the project is below 👇
 # The Technologies Used In This Project
 - NodeMCU ESP826
 - Finger Print Sensor DY-50
-- OpenCV (cv2
+- OpenCV (cv2)
 - SMTP Protocol
 - Camera Module
 - ThingSpeak (for data transfer)
 - Python
 - Ardunio IDE
 
-# Thanks and Authors
-Thank you so much to [@Muhammet-842](https://www.github.com/Muhammet-842) and Yiğit Ceylan who helped me develop this project! ❤️
+# Authors and Thanks
+-  [@Muhammet-842](https://www.github.com/Muhammet-842)
+-  Thank you so much Yiğit Ceylan who helped us develop this project! ❤️
+
