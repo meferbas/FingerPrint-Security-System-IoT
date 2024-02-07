@@ -20,6 +20,11 @@ The circuit diagram of the project is below 👇
 
 ![image](https://github.com/meferbas/FingerPrint-Security-System-IoT/assets/103934031/638d92f5-5007-4017-8741-80ae2a566d09)
 
+# Description Of The Files
+**Enroll.ino:** This file is used to record fingerprints. <br>
+**Fingerprint.ino:** This file is used to perform the necessary operations when the fingerprint is read. <br>
+**Main.py:** This python file is used to take a photo of the bad person and send it to the owner by e-mail when the fingerprint is read incorrectly.
+
 # The Technologies Used In This Project
 - NodeMCU ESP826
 - Finger Print Sensor DY-50
@@ -30,4 +35,5 @@ The circuit diagram of the project is below 👇
 - Python
 - Ardunio IDE
 
-Thank you so much to Muhammet Ali Şahal and Yiğit Ceylan who helped me develop this project! ❤️
+# Thanks and Authors
+Thank you so much to [@Muhammet-842](https://www.github.com/Muhammet-842) and Yiğit Ceylan who helped me develop this project! ❤️
