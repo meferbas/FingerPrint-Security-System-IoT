@@ -36,6 +36,7 @@ The circuit diagram of the project is below 👇
 - Ardunio IDE
 
 # Authors and Thanks
+- [@meferbas](https://www.github.com/meferbas)
 -  [@Muhammet-842](https://www.github.com/Muhammet-842)
 -  Many thanks to Yiğit Ceylan who helped us develop this project! ❤️
 
